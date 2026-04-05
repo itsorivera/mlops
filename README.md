@@ -2,7 +2,7 @@
 
 This project covers the essential skills and techniques required to move beyond training machine learning models and successfully deploy them into production environments. While building a model is a great milestone, the real value is created when it is integrated into a reliable, scalable system.
 
-## Key Takeaways
+## Why MLOps?
 
 ### 1. The MLOps Code Landscape
 
