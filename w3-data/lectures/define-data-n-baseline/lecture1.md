@@ -16,7 +16,7 @@ The quality and informativeness of the input features are foundational:
 
 - **Sensor Quality:** In applications like visual inspection or speech recognition, if the input is too dark or noisy for a human to interpret, the model will also struggle. The best solution is often improving the hardware (e.g., better lighting) rather than just labeling more data.
 
-![Visual Inspection Quality](/w3-data/lectures/assets/image.png)
+![Visual Inspection Quality](/w3-data/lectures/assets/sensor-quality-example.png)
 
 _Source: [Machine Learning in production by Andrew Ng - DeepLearning.AI](https://www.deeplearning.ai/courses/machine-learning-in-production/)_
 
